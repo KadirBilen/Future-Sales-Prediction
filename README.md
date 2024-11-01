@@ -1,1 +1,1 @@
-# Future-Salex-Prediction
+# Future-Sales-Prediction
